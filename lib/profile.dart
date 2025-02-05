@@ -9,7 +9,7 @@ class Profile extends StatelessWidget {
       width: double.infinity,
       height: 350,
       decoration: BoxDecoration(
-          color: Colors.white,
+          color: Colors.white70,
           borderRadius: BorderRadius.only(
             bottomLeft: Radius.circular(90),
           )),
