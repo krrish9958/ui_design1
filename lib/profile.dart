@@ -20,7 +20,7 @@ class Profile extends StatelessWidget {
             height: 10,
           ),
           Text(
-            "KRRISH KAMAL",
+            "KRRISH",
             style: profileText,
           ),
           Row(
